@@ -26,9 +26,9 @@
 </p>
 <p align="center">
 </p>
-- My Name Haikal
+- My Name Mr Vibe
 </p>
-- Hello All 👋
+- Hello Gooys 😫
 <br>
 </p>
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
