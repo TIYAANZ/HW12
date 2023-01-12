@@ -1,6 +1,6 @@
 
   <body>
-<h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
+<h1 align="center">😫 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 😫</h1>
 <br>
 <div align="center">
 <img src="https://i.imgur.com/jx17oHT.gif">
@@ -31,7 +31,7 @@
 - Hello Gooys 😫
 <br>
 </p>
-<h2 align="center">🔥 SPOTIFY 🔥</h2>
+<h2 align="center">😫 heck you bro 😫</h2>
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
